@@ -26,7 +26,7 @@ code .
 
 # Contributing
 
-Pull requestler kabul edilir. Büyük değişiklikler, lütfen önce neyi değiştirmek istediğinizi tartımak için bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # Licence
 
