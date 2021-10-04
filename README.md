@@ -24,7 +24,7 @@ cd kodluyoruz ilk repo
 code .
 ```
 
-# Contribuiting
+# Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler, lütfen önce neyi değiştirmek istediğinizi tartımak için bir konu açınız.
 
